@@ -1,0 +1,5 @@
+F:\Projects\STARC\POCs\STARC.Services.Sample.Service\STARC.Services.Sample.Service
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=STARC.Services.Sample.Service
+--content-root=F:\Projects\STARC\POCs\STARC.Services.Sample.Service\STARC.Services.Sample.Service
+--file=

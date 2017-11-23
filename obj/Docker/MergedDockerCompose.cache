@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  starc.sample.service:
+    build:
+      context: F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Sample.Service
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: starc.sample.service
+    ports:
+    - 80/tcp
+version: '3.0'

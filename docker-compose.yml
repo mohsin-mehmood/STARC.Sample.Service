@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  starc.sample.service:
+    image: starc.sample.service
+    build:
+      context: ./STARC.Sample.Service
+      dockerfile: Dockerfile

@@ -1,0 +1,2 @@
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+F:\Projects\STARC\POCs\STARC.Services.Sample.Service\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

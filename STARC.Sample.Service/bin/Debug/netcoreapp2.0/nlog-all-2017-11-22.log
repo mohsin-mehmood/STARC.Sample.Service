@@ -1,0 +1,502 @@
+2017-11-22 10:31:02.9523||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/   
+2017-11-22 10:31:04.2695||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/index.html'. Physical path: 'N/A' 
+2017-11-22 10:31:04.3784||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1433.7984ms 200 text/html 
+2017-11-22 10:31:04.4295||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/css/typography.css   
+2017-11-22 10:31:04.4295||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/css/reset.css   
+2017-11-22 10:31:04.4573||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/css/screen.css   
+2017-11-22 10:31:04.4911||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/screen.css'. Physical path: 'N/A' 
+2017-11-22 10:31:04.4911||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/reset.css'. Physical path: 'N/A' 
+2017-11-22 10:31:04.5218||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 90.9566ms 200 text/css 
+2017-11-22 10:31:04.5489||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/jquery.ba-bbq.min.js   
+2017-11-22 10:31:04.4796||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/typography.css'. Physical path: 'N/A' 
+2017-11-22 10:31:04.5489||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.ba-bbq.min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.5864||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 37.4794ms 200 application/javascript 
+2017-11-22 10:31:04.5118||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 54.4807ms 200 text/css 
+2017-11-22 10:31:04.6122||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/jquery.wiggle.min.js   
+2017-11-22 10:31:04.6122||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.wiggle.min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.6314||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 19.1199ms 200 application/javascript 
+2017-11-22 10:31:04.5748||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 145.2263ms 200 text/css 
+2017-11-22 10:31:04.6415||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/handlebars-4.0.5.js   
+2017-11-22 10:31:04.6415||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/backbone-min.js   
+2017-11-22 10:31:04.6057||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/lodash.min.js   
+2017-11-22 10:31:04.6913||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/lodash.min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.6801||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/backbone-min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.7151||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 73.5274ms 200 application/javascript 
+2017-11-22 10:31:04.6701||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/handlebars-4.0.5.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.7246||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/highlight.9.1.0.pack.js   
+2017-11-22 10:31:04.7447||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.6913||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 94.1185ms 200 application/javascript 
+2017-11-22 10:31:04.7679||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/swagger-ui.min.js   
+2017-11-22 10:31:04.7679||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.7584||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 33.8505ms 200 application/javascript 
+2017-11-22 10:31:04.8230||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/object-assign-pollyfill.js   
+2017-11-22 10:31:04.8331||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/object-assign-pollyfill.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.8479||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 24.8804ms 200 application/javascript 
+2017-11-22 10:31:04.8230||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/highlight.9.1.0.pack_extended.js   
+2017-11-22 10:31:04.8621||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack_extended.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.8621||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 42.321ms 200 application/javascript 
+2017-11-22 10:31:04.8767||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/marked.js   
+2017-11-22 10:31:04.8767||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/marked.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.8331||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/jquery-1.8.0.min.js   
+2017-11-22 10:31:04.8479||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/jquery.slideto.min.js   
+2017-11-22 10:31:04.8975||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.slideto.min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.9139||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 59.6641ms 200 application/javascript 
+2017-11-22 10:31:04.9139||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 269.697ms 200 application/javascript 
+2017-11-22 10:31:04.8767||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 13.0673ms 200 application/javascript 
+2017-11-22 10:31:04.9356||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/jsoneditor.min.js   
+2017-11-22 10:31:04.8975||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery-1.8.0.min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.9356||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/lib/swagger-oauth.js   
+2017-11-22 10:31:04.9670||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 133.8364ms 200 application/javascript 
+2017-11-22 10:31:04.9670||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/swagger-oauth.js'. Physical path: 'N/A' 
+2017-11-22 10:31:04.9969||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 60.5702ms 200 application/javascript 
+2017-11-22 10:31:04.9492||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jsoneditor.min.js'. Physical path: 'N/A' 
+2017-11-22 10:31:05.0123||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 244.3348ms 200 application/javascript 
+2017-11-22 10:31:05.0299||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/images/logo_small.png   
+2017-11-22 10:31:05.0479||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/logo_small.png'. Physical path: 'N/A' 
+2017-11-22 10:31:05.0635||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 33.6223ms 200 image/png 
+2017-11-22 10:31:05.0635||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/css/print.css   
+2017-11-22 10:31:05.0837||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/print.css'. Physical path: 'N/A' 
+2017-11-22 10:31:05.0299||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 95.6165ms 200 application/javascript 
+2017-11-22 10:31:05.0960||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 25.3005ms 200 text/css 
+2017-11-22 10:31:05.2128||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/v1/swagger.json   
+2017-11-22 10:31:05.2525||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/images/favicon-32x32.png   
+2017-11-22 10:31:05.2683||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-32x32.png'. Physical path: 'N/A' 
+2017-11-22 10:31:05.2683||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 24.1534ms 200 image/png 
+2017-11-22 10:31:05.2972||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/images/favicon-16x16.png   
+2017-11-22 10:31:05.3069||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-16x16.png'. Physical path: 'N/A' 
+2017-11-22 10:31:05.3069||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 16.2107ms 200 image/png 
+2017-11-22 10:31:05.5497||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 336.932ms 200 application/json 
+2017-11-22 10:31:05.6001||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/swagger/images/throbber.gif   
+2017-11-22 10:31:05.6001||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/throbber.gif'. Physical path: 'N/A' 
+2017-11-22 10:31:05.6154||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 15.2939ms 200 image/gif 
+2017-11-22 10:31:16.6472||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.35.220/api/v1/persons   
+2017-11-22 10:31:16.7969||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 10:31:16.8054||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 10:31:16.8183||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 10:31:16.8446||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 10:31:16.8541||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Services.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Services.Sample.Service) in 96.8919ms 
+2017-11-22 10:31:16.8541||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 216.5214ms 401  
+2017-11-22 10:40:41.3490||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/   
+2017-11-22 10:40:42.0162||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/index.html'. Physical path: 'N/A' 
+2017-11-22 10:40:42.1210||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 786.4226ms 200 text/html 
+2017-11-22 10:40:42.1795||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/css/reset.css   
+2017-11-22 10:40:42.1795||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/css/typography.css   
+2017-11-22 10:40:42.1952||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/reset.css'. Physical path: 'N/A' 
+2017-11-22 10:40:42.2233||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 43.7606ms 200 text/css 
+2017-11-22 10:40:42.2607||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/jquery.wiggle.min.js   
+2017-11-22 10:40:42.2069||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/typography.css'. Physical path: 'N/A' 
+2017-11-22 10:40:42.2750||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.wiggle.min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.2937||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 114.1956ms 200 text/css 
+2017-11-22 10:40:42.3142||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/jquery.ba-bbq.min.js   
+2017-11-22 10:40:42.3142||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.ba-bbq.min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.3325||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.3233ms 200 application/javascript 
+2017-11-22 10:40:42.3325||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/lodash.min.js   
+2017-11-22 10:40:42.3053||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 44.5694ms 200 application/javascript 
+2017-11-22 10:40:42.3497||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/handlebars-4.0.5.js   
+2017-11-22 10:40:42.3497||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/lodash.min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.3780||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 36.2769ms 200 application/javascript 
+2017-11-22 10:40:42.3780||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/backbone-min.js   
+2017-11-22 10:40:42.3975||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/backbone-min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.4080||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 20.0822ms 200 application/javascript 
+2017-11-22 10:40:42.4080||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/swagger-ui.min.js   
+2017-11-22 10:40:42.3674||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/handlebars-4.0.5.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.4236||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.4606||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/css/screen.css   
+2017-11-22 10:40:42.4711||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/object-assign-pollyfill.js   
+2017-11-22 10:40:42.4711||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/object-assign-pollyfill.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.4849||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 13.7721ms 200 application/javascript 
+2017-11-22 10:40:42.4849||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/highlight.9.1.0.pack.js   
+2017-11-22 10:40:42.5051||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.4711||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/screen.css'. Physical path: 'N/A' 
+2017-11-22 10:40:42.5051||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 14.8393ms 200 application/javascript 
+2017-11-22 10:40:42.5204||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/highlight.9.1.0.pack_extended.js   
+2017-11-22 10:40:42.5365||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack_extended.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.5365||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 14.2388ms 200 application/javascript 
+2017-11-22 10:40:42.5510||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/marked.js   
+2017-11-22 10:40:42.5510||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/marked.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.5662||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 15.1655ms 200 application/javascript 
+2017-11-22 10:40:42.5204||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 59.7604ms 200 text/css 
+2017-11-22 10:40:42.5897||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/jsoneditor.min.js   
+2017-11-22 10:40:42.5983||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jsoneditor.min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.5662||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/swagger-oauth.js   
+2017-11-22 10:40:42.6096||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/jquery-1.8.0.min.js   
+2017-11-22 10:40:42.6283||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery-1.8.0.min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.6096||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/swagger-oauth.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.7389||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 162.9429ms 200 application/javascript 
+2017-11-22 10:40:42.6933||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 336.3736ms 200 application/javascript 
+2017-11-22 10:40:42.7702||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 167.1216ms 200 application/javascript 
+2017-11-22 10:40:42.6556||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/lib/jquery.slideto.min.js   
+2017-11-22 10:40:42.8057||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.slideto.min.js'. Physical path: 'N/A' 
+2017-11-22 10:40:42.7702||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 180.534ms 200 application/javascript 
+2017-11-22 10:40:42.8295||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 173.9346ms 200 application/javascript 
+2017-11-22 10:40:42.8237||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 407.4513ms 200 application/javascript 
+2017-11-22 10:40:42.8694||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/images/logo_small.png   
+2017-11-22 10:40:42.8803||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/logo_small.png'. Physical path: 'N/A' 
+2017-11-22 10:40:42.8962||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 26.7331ms 200 image/png 
+2017-11-22 10:40:42.9108||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/css/print.css   
+2017-11-22 10:40:42.9291||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/print.css'. Physical path: 'N/A' 
+2017-11-22 10:40:42.9522||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 41.4549ms 200 text/css 
+2017-11-22 10:40:43.0841||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/v1/swagger.json   
+2017-11-22 10:40:43.1086||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/images/favicon-32x32.png   
+2017-11-22 10:40:43.1086||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-32x32.png'. Physical path: 'N/A' 
+2017-11-22 10:40:43.1396||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 30.941ms 200 image/png 
+2017-11-22 10:40:43.1396||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/images/favicon-16x16.png   
+2017-11-22 10:40:43.1711||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-16x16.png'. Physical path: 'N/A' 
+2017-11-22 10:40:43.1918||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 40.0663ms 200 image/png 
+2017-11-22 10:40:43.3756||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 291.4646ms 200 application/json 
+2017-11-22 10:40:43.4308||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.79/swagger/images/throbber.gif   
+2017-11-22 10:40:43.4521||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/throbber.gif'. Physical path: 'N/A' 
+2017-11-22 10:40:43.4720||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 41.2453ms 200 image/gif 
+2017-11-22 12:26:25.5487||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/   
+2017-11-22 12:26:26.6660||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/index.html'. Physical path: 'N/A' 
+2017-11-22 12:26:26.8564||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1294.4702ms 200 text/html 
+2017-11-22 12:26:26.8836||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/css/reset.css   
+2017-11-22 12:26:26.8836||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/css/screen.css   
+2017-11-22 12:26:26.9009||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/screen.css'. Physical path: 'N/A' 
+2017-11-22 12:26:26.8836||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/css/typography.css   
+2017-11-22 12:26:26.9351||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/typography.css'. Physical path: 'N/A' 
+2017-11-22 12:26:26.8836||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/reset.css'. Physical path: 'N/A' 
+2017-11-22 12:26:26.9770||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 93.431ms 200 text/css 
+2017-11-22 12:26:26.9009||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 24.4861ms 200 text/css 
+2017-11-22 12:26:27.0106||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/jquery.wiggle.min.js   
+2017-11-22 12:26:27.0242||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.wiggle.min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:26.9770||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 90.9566ms 200 text/css 
+2017-11-22 12:26:27.0435||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/jquery.ba-bbq.min.js   
+2017-11-22 12:26:27.0435||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.ba-bbq.min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.0106||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/jquery-1.8.0.min.js   
+2017-11-22 12:26:27.0717||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery-1.8.0.min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.0242||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 24.9388ms 200 application/javascript 
+2017-11-22 12:26:27.0905||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/lodash.min.js   
+2017-11-22 12:26:27.0991||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/lodash.min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.0589||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 15.4428ms 200 application/javascript 
+2017-11-22 12:26:27.1172||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/backbone-min.js   
+2017-11-22 12:26:27.1172||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/backbone-min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.1324||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 15.2081ms 200 application/javascript 
+2017-11-22 12:26:27.1324||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/highlight.9.1.0.pack.js   
+2017-11-22 12:26:27.1533||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.0991||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.4563ms 200 application/javascript 
+2017-11-22 12:26:27.1715||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/swagger-ui.min.js   
+2017-11-22 12:26:27.1849||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.1533||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 16.7939ms 200 application/javascript 
+2017-11-22 12:26:27.1993||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/highlight.9.1.0.pack_extended.js   
+2017-11-22 12:26:27.2140||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack_extended.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.2247||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.5384ms 200 application/javascript 
+2017-11-22 12:26:27.2247||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/jsoneditor.min.js   
+2017-11-22 12:26:27.2432||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jsoneditor.min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.1993||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/object-assign-pollyfill.js   
+2017-11-22 12:26:27.2755||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/jquery.slideto.min.js   
+2017-11-22 12:26:27.2939||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.slideto.min.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.3110||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 35.448ms 200 application/javascript 
+2017-11-22 12:26:27.3251||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/marked.js   
+2017-11-22 12:26:27.3377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/marked.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.3547||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 29.6144ms 200 application/javascript 
+2017-11-22 12:26:27.2755||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/object-assign-pollyfill.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.3695||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 179.7297ms 200 application/javascript 
+2017-11-22 12:26:27.3911||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/handlebars-4.0.5.js   
+2017-11-22 12:26:27.3695||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/lib/swagger-oauth.js   
+2017-11-22 12:26:27.3911||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/swagger-oauth.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.4178||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 48.2015ms 200 application/javascript 
+2017-11-22 12:26:27.3911||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/handlebars-4.0.5.js'. Physical path: 'N/A' 
+2017-11-22 12:26:27.4178||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 416.673ms 200 application/javascript 
+2017-11-22 12:26:27.4706||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 79.4682ms 200 application/javascript 
+2017-11-22 12:26:27.4706||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 239.6714ms 200 application/javascript 
+2017-11-22 12:26:27.4968||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/images/logo_small.png   
+2017-11-22 12:26:27.4968||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/logo_small.png'. Physical path: 'N/A' 
+2017-11-22 12:26:27.5151||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.2403ms 200 image/png 
+2017-11-22 12:26:27.5265||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/css/print.css   
+2017-11-22 12:26:27.5265||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/print.css'. Physical path: 'N/A' 
+2017-11-22 12:26:27.4968||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 326.721ms 200 application/javascript 
+2017-11-22 12:26:27.5619||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 35.3029ms 200 text/css 
+2017-11-22 12:26:27.7463||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/v1/swagger.json   
+2017-11-22 12:26:27.7938||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/images/favicon-32x32.png   
+2017-11-22 12:26:27.7938||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-32x32.png'. Physical path: 'N/A' 
+2017-11-22 12:26:27.8176||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 23.8496ms 200 image/png 
+2017-11-22 12:26:27.8319||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/images/favicon-16x16.png   
+2017-11-22 12:26:27.8413||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-16x16.png'. Physical path: 'N/A' 
+2017-11-22 12:26:27.8413||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.1455ms 200 image/png 
+2017-11-22 12:26:28.3036||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 556.3957ms 200 application/json 
+2017-11-22 12:26:28.3553||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/swagger/images/throbber.gif   
+2017-11-22 12:26:28.3987||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/throbber.gif'. Physical path: 'N/A' 
+2017-11-22 12:26:28.4374||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 81.9267ms 200 image/gif 
+2017-11-22 12:28:10.7489||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.36.220/api/v1/persons/ping   
+2017-11-22 12:28:11.1782||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method STARC.Services.Sample.Service.Controllers.PersonController.Ping (STARC.Services.Sample.Service) with arguments ((null)) - ModelState is Valid 
+2017-11-22 12:28:11.2206||INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-11-22 12:28:11.2672||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Services.Sample.Service.Controllers.PersonController.Ping (STARC.Services.Sample.Service) in 340.0782ms 
+2017-11-22 12:28:11.2672||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 531.2036ms 200 application/json; charset=utf-8 
+2017-11-22 15:51:42.4191||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/v1/swagger.json   
+2017-11-22 15:51:43.5847||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1178.4372ms 200 application/json 
+2017-11-22 15:51:43.6257||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/favicon.ico   
+2017-11-22 15:51:43.6591||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 33.5805ms 404  
+2017-11-22 15:51:52.2761||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/   
+2017-11-22 15:51:52.3559||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/index.html'. Physical path: 'N/A' 
+2017-11-22 15:51:52.3874||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 111.312ms 200 text/html 
+2017-11-22 15:51:52.4132||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/css/typography.css   
+2017-11-22 15:51:52.4132||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/css/screen.css   
+2017-11-22 15:51:52.4647||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/screen.css'. Physical path: 'N/A' 
+2017-11-22 15:51:52.4793||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 60.6808ms 200 text/css 
+2017-11-22 15:51:52.4879||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/jquery.wiggle.min.js   
+2017-11-22 15:51:52.4428||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/typography.css'. Physical path: 'N/A' 
+2017-11-22 15:51:52.4428||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/object-assign-pollyfill.js   
+2017-11-22 15:51:52.5313||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/object-assign-pollyfill.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.5443||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 101.4783ms 200 application/javascript 
+2017-11-22 15:51:52.5032||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.wiggle.min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.5658||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 77.9383ms 200 application/javascript 
+2017-11-22 15:51:52.5032||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 99.9868ms 200 text/css 
+2017-11-22 15:51:52.5851||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/jquery.ba-bbq.min.js   
+2017-11-22 15:51:52.5544||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/handlebars-4.0.5.js   
+2017-11-22 15:51:52.5985||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/handlebars-4.0.5.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.5985||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.ba-bbq.min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.6292||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 44.1309ms 200 application/javascript 
+2017-11-22 15:51:52.6292||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/jquery-1.8.0.min.js   
+2017-11-22 15:51:52.5658||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/lodash.min.js   
+2017-11-22 15:51:52.6454||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/lodash.min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.6611||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/jquery.slideto.min.js   
+2017-11-22 15:51:52.6611||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.slideto.min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.6812||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 20.0914ms 200 application/javascript 
+2017-11-22 15:51:52.6812||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/highlight.9.1.0.pack.js   
+2017-11-22 15:51:52.6454||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery-1.8.0.min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.6946||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.6611||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 87.8703ms 200 application/javascript 
+2017-11-22 15:51:52.7215||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/swagger-ui.min.js   
+2017-11-22 15:51:52.7215||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.7149||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 26.859ms 200 application/javascript 
+2017-11-22 15:51:52.7388||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/highlight.9.1.0.pack_extended.js   
+2017-11-22 15:51:52.6946||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/css/reset.css   
+2017-11-22 15:51:52.7589||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/reset.css'. Physical path: 'N/A' 
+2017-11-22 15:51:52.7745||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 69.1957ms 200 text/css 
+2017-11-22 15:51:52.7388||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 183.4326ms 200 application/javascript 
+2017-11-22 15:51:52.7913||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/jsoneditor.min.js   
+2017-11-22 15:51:52.7999||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jsoneditor.min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.7589||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack_extended.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.8243||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 73.2791ms 200 application/javascript 
+2017-11-22 15:51:52.7745||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/marked.js   
+2017-11-22 15:51:52.8519||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/marked.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.8519||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 78.0519ms 200 application/javascript 
+2017-11-22 15:51:52.8715||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 235.1853ms 200 application/javascript 
+2017-11-22 15:51:52.8243||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/backbone-min.js   
+2017-11-22 15:51:52.9017||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/backbone-min.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.8407||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/lib/swagger-oauth.js   
+2017-11-22 15:51:52.9245||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/swagger-oauth.js'. Physical path: 'N/A' 
+2017-11-22 15:51:52.9245||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 92.942ms 200 application/javascript 
+2017-11-22 15:51:52.9418||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/images/logo_small.png   
+2017-11-22 15:51:52.9418||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/logo_small.png'. Physical path: 'N/A' 
+2017-11-22 15:51:52.9017||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 111.5341ms 200 application/javascript 
+2017-11-22 15:51:52.9116||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 83.0844ms 200 application/javascript 
+2017-11-22 15:51:52.9596||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 17.79ms 200 image/png 
+2017-11-22 15:51:52.9892||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/css/print.css   
+2017-11-22 15:51:53.0031||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/print.css'. Physical path: 'N/A' 
+2017-11-22 15:51:52.9892||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 274.6332ms 200 application/javascript 
+2017-11-22 15:51:53.0226||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 33.4279ms 200 text/css 
+2017-11-22 15:51:53.1513||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/v1/swagger.json   
+2017-11-22 15:51:53.1618||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 10.3881ms 200 application/json 
+2017-11-22 15:51:53.2363||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/images/throbber.gif   
+2017-11-22 15:51:53.2455||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/throbber.gif'. Physical path: 'N/A' 
+2017-11-22 15:51:53.2455||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 16.2033ms 200 image/gif 
+2017-11-22 15:51:53.2788||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/images/favicon-32x32.png   
+2017-11-22 15:51:53.2890||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-32x32.png'. Physical path: 'N/A' 
+2017-11-22 15:51:53.3017||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 22.8596ms 200 image/png 
+2017-11-22 15:51:53.3131||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/swagger/images/favicon-16x16.png   
+2017-11-22 15:51:53.3131||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-16x16.png'. Physical path: 'N/A' 
+2017-11-22 15:51:53.3332||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 20.1357ms 200 image/png 
+2017-11-22 15:52:07.2863||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.32.51/api/v1/persons   
+2017-11-22 15:52:07.4258||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 15:52:07.4329||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 15:52:07.4329||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 15:52:07.4703||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 15:52:07.4803||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 91.4182ms 
+2017-11-22 15:52:07.4803||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 202.3462ms 401  
+2017-11-22 17:19:50.2270||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/   
+2017-11-22 17:19:50.9283||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/index.html'. Physical path: 'N/A' 
+2017-11-22 17:19:51.0674||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 851.9734ms 200 text/html 
+2017-11-22 17:19:51.1009||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/css/typography.css   
+2017-11-22 17:19:51.1269||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/typography.css'. Physical path: 'N/A' 
+2017-11-22 17:19:51.1388||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/css/reset.css   
+2017-11-22 17:19:51.1388||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/css/screen.css   
+2017-11-22 17:19:51.1527||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 51.7915ms 200 text/css 
+2017-11-22 17:19:51.2351||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/jquery.wiggle.min.js   
+2017-11-22 17:19:51.1740||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/reset.css'. Physical path: 'N/A' 
+2017-11-22 17:19:51.2688||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 129.9184ms 200 text/css 
+2017-11-22 17:19:51.2236||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/screen.css'. Physical path: 'N/A' 
+2017-11-22 17:19:51.2478||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.wiggle.min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.3389||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 115.5223ms 200 application/javascript 
+2017-11-22 17:19:51.3691||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/lodash.min.js   
+2017-11-22 17:19:51.2903||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/jquery.ba-bbq.min.js   
+2017-11-22 17:19:51.3877||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.ba-bbq.min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.3389||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 198.8005ms 200 text/css 
+2017-11-22 17:19:51.4096||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/handlebars-4.0.5.js   
+2017-11-22 17:19:51.4249||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/handlebars-4.0.5.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.3789||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/lodash.min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.3877||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 106.4731ms 200 application/javascript 
+2017-11-22 17:19:51.4645||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/backbone-min.js   
+2017-11-22 17:19:51.4520||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 82.8285ms 200 application/javascript 
+2017-11-22 17:19:51.4837||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/swagger-ui.min.js   
+2017-11-22 17:19:51.4931||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.4520||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/object-assign-pollyfill.js   
+2017-11-22 17:19:51.5087||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/object-assign-pollyfill.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.5087||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 59.7418ms 200 application/javascript 
+2017-11-22 17:19:51.4645||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/backbone-min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.5087||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/jquery.slideto.min.js   
+2017-11-22 17:19:51.5305||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery.slideto.min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.5494||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 26.7432ms 200 application/javascript 
+2017-11-22 17:19:51.5566||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/jsoneditor.min.js   
+2017-11-22 17:19:51.4931||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/jquery-1.8.0.min.js   
+2017-11-22 17:19:51.5305||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 65.9851ms 200 application/javascript 
+2017-11-22 17:19:51.5759||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/highlight.9.1.0.pack_extended.js   
+2017-11-22 17:19:51.5936||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack_extended.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.5936||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 16.0697ms 200 application/javascript 
+2017-11-22 17:19:51.5566||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jsoneditor.min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.5759||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery-1.8.0.min.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.6110||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/marked.js   
+2017-11-22 17:19:51.6427||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/marked.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.6246||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 214.9662ms 200 application/javascript 
+2017-11-22 17:19:51.6519||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/swagger-oauth.js   
+2017-11-22 17:19:51.6519||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 40.9676ms 200 application/javascript 
+2017-11-22 17:19:51.6427||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/lib/highlight.9.1.0.pack.js   
+2017-11-22 17:19:51.6817||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/highlight.9.1.0.pack.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.7049||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 61.9643ms 200 application/javascript 
+2017-11-22 17:19:51.6665||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/swagger-oauth.js'. Physical path: 'N/A' 
+2017-11-22 17:19:51.6817||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 125.1697ms 200 application/javascript 
+2017-11-22 17:19:51.7143||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 65.7116ms 200 application/javascript 
+2017-11-22 17:19:51.7483||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/images/logo_small.png   
+2017-11-22 17:19:51.7143||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 210.9458ms 200 application/javascript 
+2017-11-22 17:19:51.7804||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 296.7185ms 200 application/javascript 
+2017-11-22 17:19:51.7684||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/logo_small.png'. Physical path: 'N/A' 
+2017-11-22 17:19:51.8061||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 57.7908ms 200 image/png 
+2017-11-22 17:19:51.8061||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/css/print.css   
+2017-11-22 17:19:51.8276||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/print.css'. Physical path: 'N/A' 
+2017-11-22 17:19:51.8367||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.3099ms 200 text/css 
+2017-11-22 17:19:51.9606||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/v1/swagger.json   
+2017-11-22 17:19:51.9903||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/images/favicon-32x32.png   
+2017-11-22 17:19:52.0079||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-32x32.png'. Physical path: 'N/A' 
+2017-11-22 17:19:52.0079||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 29.8973ms 200 image/png 
+2017-11-22 17:19:52.0381||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/images/favicon-16x16.png   
+2017-11-22 17:19:52.0381||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/favicon-16x16.png'. Physical path: 'N/A' 
+2017-11-22 17:19:52.0654||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 27.3055ms 200 image/png 
+2017-11-22 17:19:52.2584||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 297.8526ms 200 application/json 
+2017-11-22 17:19:52.3045||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/swagger/images/throbber.gif   
+2017-11-22 17:19:52.3045||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/images/throbber.gif'. Physical path: 'N/A' 
+2017-11-22 17:19:52.3282||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 23.6459ms 200 image/gif 
+2017-11-22 17:20:12.1632||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:20:12.2934||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:20:12.2934||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:20:12.3234||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:20:12.3506||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:20:12.3506||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 103.2318ms 
+2017-11-22 17:20:12.3696||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 206.4151ms 401  
+2017-11-22 17:20:36.8211||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:20:39.2180||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Failed to validate the token eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik0wSkVORUU1T1RFeFJrSTROMEU1TmpNeVJrWTFORFExTmtGRU1rTTFRemt5TkRZeVFUYzFOdyJ9.eyJpc3MiOiJodHRwczovL2luaXRpYWwtZGVtby5ldS5hdXRoMC5jb20vIiwic3ViIjoiZkRaMjhVQ1k1YmM4aFlSNjBlamNocmJ2Y0RtV0NtOERAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vc3RhcmMuc2VjdXJpdHkuc2VydmljZS5jb20iLCJpYXQiOjE1MTA4OTk5MDQsImV4cCI6MTUxMDk4NjMwNCwiZ3R5IjoiY2xpZW50LWNyZWRlbnRpYWxzIn0.relHrkvttgXe7Ce9VNKWgvcZvs4ekwGfWl92n35OrXeGk2_1k6vxsh645DcJg6Cuu3tnLQHlGTkQd3RzgB-ghmqMGr11y9xw7VFxvjuxF_PRyrpUjkqHTx82a8CLwT1ySPs3PbsK-wRe5A_rcgm5lon--Bg1__IfeKIHNdn_xg5qauXM2AOu_PPH1GiqaGO46fc_PHT-mF4E2iMxKz0SBCQNzJs-VQHJaZypYoAnwrqcyUikPt_VfqTuNzik20bijOFEYl7NtzmJG932SDAeL6dySogt3oj9HUSkdSfacHlXsL3i6aZNz54Vg5aHwPw0l_Zt-Jk77wO6Zr4OIqfqYg. IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:20:39'.
+2017-11-22 17:20:39.2299||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:20:39'. 
+2017-11-22 17:20:39.2476||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:20:39.2476||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:20:39.2620||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:20:39.2620||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:20:39.2784||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 30.9766ms 
+2017-11-22 17:20:39.2784||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2465.211ms 401  
+2017-11-22 17:21:21.0158||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:21:21.0357||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Failed to validate the token eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik0wSkVORUU1T1RFeFJrSTROMEU1TmpNeVJrWTFORFExTmtGRU1rTTFRemt5TkRZeVFUYzFOdyJ9.eyJpc3MiOiJodHRwczovL2luaXRpYWwtZGVtby5ldS5hdXRoMC5jb20vIiwic3ViIjoiZkRaMjhVQ1k1YmM4aFlSNjBlamNocmJ2Y0RtV0NtOERAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vc3RhcmMuc2VjdXJpdHkuc2VydmljZS5jb20iLCJpYXQiOjE1MTA4OTk5MDQsImV4cCI6MTUxMDk4NjMwNCwiZ3R5IjoiY2xpZW50LWNyZWRlbnRpYWxzIn0.relHrkvttgXe7Ce9VNKWgvcZvs4ekwGfWl92n35OrXeGk2_1k6vxsh645DcJg6Cuu3tnLQHlGTkQd3RzgB-ghmqMGr11y9xw7VFxvjuxF_PRyrpUjkqHTx82a8CLwT1ySPs3PbsK-wRe5A_rcgm5lon--Bg1__IfeKIHNdn_xg5qauXM2AOu_PPH1GiqaGO46fc_PHT-mF4E2iMxKz0SBCQNzJs-VQHJaZypYoAnwrqcyUikPt_VfqTuNzik20bijOFEYl7NtzmJG932SDAeL6dySogt3oj9HUSkdSfacHlXsL3i6aZNz54Vg5aHwPw0l_Zt-Jk77wO6Zr4OIqfqYg. IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:21:21'.
+2017-11-22 17:21:21.0489||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:21:21'. 
+2017-11-22 17:21:21.0628||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:21:21.0766||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:21:21.0766||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:21:21.0971||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:21:21.1087||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 46.2317ms 
+2017-11-22 17:21:21.1203||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 104.481ms 401  
+2017-11-22 17:21:41.5228||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:21:41.5447||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Failed to validate the token eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik0wSkVORUU1T1RFeFJrSTROMEU1TmpNeVJrWTFORFExTmtGRU1rTTFRemt5TkRZeVFUYzFOdyJ9.eyJpc3MiOiJodHRwczovL2luaXRpYWwtZGVtby5ldS5hdXRoMC5jb20vIiwic3ViIjoiZkRaMjhVQ1k1YmM4aFlSNjBlamNocmJ2Y0RtV0NtOERAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vc3RhcmMuc2VjdXJpdHkuc2VydmljZS5jb20iLCJpYXQiOjE1MTA4OTk5MDQsImV4cCI6MTUxMDk4NjMwNCwiZ3R5IjoiY2xpZW50LWNyZWRlbnRpYWxzIn0.relHrkvttgXe7Ce9VNKWgvcZvs4ekwGfWl92n35OrXeGk2_1k6vxsh645DcJg6Cuu3tnLQHlGTkQd3RzgB-ghmqMGr11y9xw7VFxvjuxF_PRyrpUjkqHTx82a8CLwT1ySPs3PbsK-wRe5A_rcgm5lon--Bg1__IfeKIHNdn_xg5qauXM2AOu_PPH1GiqaGO46fc_PHT-mF4E2iMxKz0SBCQNzJs-VQHJaZypYoAnwrqcyUikPt_VfqTuNzik20bijOFEYl7NtzmJG932SDAeL6dySogt3oj9HUSkdSfacHlXsL3i6aZNz54Vg5aHwPw0l_Zt-Jk77wO6Zr4OIqfqYg. IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:21:41'.
+2017-11-22 17:21:41.5859||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:21:41'. 
+2017-11-22 17:21:41.5979||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:21:41.6078||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:21:41.6078||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:21:41.6242||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:21:41.6242||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 33.8897ms 
+2017-11-22 17:21:41.6404||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 117.6926ms 401  
+2017-11-22 17:22:00.6837||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:22:00.6837||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Failed to validate the token eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik0wSkVORUU1T1RFeFJrSTROMEU1TmpNeVJrWTFORFExTmtGRU1rTTFRemt5TkRZeVFUYzFOdyJ9.eyJpc3MiOiJodHRwczovL2luaXRpYWwtZGVtby5ldS5hdXRoMC5jb20vIiwic3ViIjoiZkRaMjhVQ1k1YmM4aFlSNjBlamNocmJ2Y0RtV0NtOERAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vc3RhcmMuc2VjdXJpdHkuc2VydmljZS5jb20iLCJpYXQiOjE1MTA4OTk5MDQsImV4cCI6MTUxMDk4NjMwNCwiZ3R5IjoiY2xpZW50LWNyZWRlbnRpYWxzIn0.relHrkvttgXe7Ce9VNKWgvcZvs4ekwGfWl92n35OrXeGk2_1k6vxsh645DcJg6Cuu3tnLQHlGTkQd3RzgB-ghmqMGr11y9xw7VFxvjuxF_PRyrpUjkqHTx82a8CLwT1ySPs3PbsK-wRe5A_rcgm5lon--Bg1__IfeKIHNdn_xg5qauXM2AOu_PPH1GiqaGO46fc_PHT-mF4E2iMxKz0SBCQNzJs-VQHJaZypYoAnwrqcyUikPt_VfqTuNzik20bijOFEYl7NtzmJG932SDAeL6dySogt3oj9HUSkdSfacHlXsL3i6aZNz54Vg5aHwPw0l_Zt-Jk77wO6Zr4OIqfqYg. IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:22:00'.
+2017-11-22 17:22:00.7274||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:22:00'. 
+2017-11-22 17:22:00.7365||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:22:00.7473||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:22:00.7638||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:22:00.7638||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:22:00.7854||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 49.0983ms 
+2017-11-22 17:22:00.7966||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 112.8522ms 401  
+2017-11-22 17:22:16.0195||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:22:16.0583||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Failed to validate the token eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik0wSkVORUU1T1RFeFJrSTROMEU1TmpNeVJrWTFORFExTmtGRU1rTTFRemt5TkRZeVFUYzFOdyJ9.eyJpc3MiOiJodHRwczovL2luaXRpYWwtZGVtby5ldS5hdXRoMC5jb20vIiwic3ViIjoiZkRaMjhVQ1k1YmM4aFlSNjBlamNocmJ2Y0RtV0NtOERAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vc3RhcmMuc2VjdXJpdHkuc2VydmljZS5jb20iLCJpYXQiOjE1MTA4OTk5MDQsImV4cCI6MTUxMDk4NjMwNCwiZ3R5IjoiY2xpZW50LWNyZWRlbnRpYWxzIn0.relHrkvttgXe7Ce9VNKWgvcZvs4ekwGfWl92n35OrXeGk2_1k6vxsh645DcJg6Cuu3tnLQHlGTkQd3RzgB-ghmqMGr11y9xw7VFxvjuxF_PRyrpUjkqHTx82a8CLwT1ySPs3PbsK-wRe5A_rcgm5lon--Bg1__IfeKIHNdn_xg5qauXM2AOu_PPH1GiqaGO46fc_PHT-mF4E2iMxKz0SBCQNzJs-VQHJaZypYoAnwrqcyUikPt_VfqTuNzik20bijOFEYl7NtzmJG932SDAeL6dySogt3oj9HUSkdSfacHlXsL3i6aZNz54Vg5aHwPw0l_Zt-Jk77wO6Zr4OIqfqYg. IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:22:16'.
+2017-11-22 17:22:16.1041||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '11/18/2017 06:25:04'
+Current time: '11/22/2017 12:22:16'. 
+2017-11-22 17:22:16.1041||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:22:16.1202||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:22:16.1202||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:22:16.1357||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:22:16.1357||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 30.5422ms 
+2017-11-22 17:22:16.1513||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 132.1963ms 401  
+2017-11-22 17:22:40.0312||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:22:40.0312||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:22:40.0700||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:22:40.0700||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:22:40.0937||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:22:40.1020||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 54.6816ms 
+2017-11-22 17:22:40.1020||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 81.7079ms 401  
+2017-11-22 17:24:38.2792||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:24:38.3094||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token: uC9lwP2Z0gjDbh4vorE19eVb2V1Omkda6R5iBROa1z1YwhH66LltLx1vfH13WkP4 
+2017-11-22 17:24:38.3287||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed for user: (null). 
+2017-11-22 17:24:38.3504||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'. 
+2017-11-22 17:24:38.3731||INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes (). 
+2017-11-22 17:24:38.3958||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2017-11-22 17:24:38.4091||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 80.3197ms 
+2017-11-22 17:24:38.4091||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 139.6662ms 401  
+2017-11-22 17:25:54.4839||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.44.92/api/v1/persons   
+2017-11-22 17:25:54.5378||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Successfully validated the token. 
+2017-11-22 17:25:54.5720||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was successfully authenticated. 
+2017-11-22 17:25:54.5903||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization was successful for user: fDZ28UCY5bc8hYR60ejchrbvcDmWCm8D@clients. 
+2017-11-22 17:25:54.8281||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) with arguments ((null)) - ModelState is Valid 
+2017-11-22 17:25:55.4500||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'PersonsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2017-11-22 17:25:55.9128||INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-11-22 17:25:58.1676||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (347ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[PersonId], [p].[DateOfBirth], [p].[FirstName], [p].[LastName]
+FROM [Persons] AS [p] 
+2017-11-22 17:25:58.2875||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 3698.1017ms 
+2017-11-22 17:25:58.3015||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 3817.6393ms 200 application/json; charset=utf-8 
+2017-11-22 18:22:55.7598||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.75/api/v1/persons   
+2017-11-22 18:22:57.7770||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Successfully validated the token. 
+2017-11-22 18:22:57.7977||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was successfully authenticated. 
+2017-11-22 18:22:58.1915||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization was successful for user: fDZ28UCY5bc8hYR60ejchrbvcDmWCm8D@clients. 
+2017-11-22 18:22:58.3698||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) with arguments ((null)) - ModelState is Valid 
+2017-11-22 18:22:58.8806||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'PersonsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2017-11-22 18:23:01.2231||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (279ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [person].[FirstName], [person].[LastName], [person].[PersonId]
+FROM [Persons] AS [person] 
+2017-11-22 18:23:01.2907||INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-11-22 18:23:01.3900||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetAllPersons (STARC.Sample.Service) in 3225.5623ms 
+2017-11-22 18:23:01.4201||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 5667.4393ms 200 application/json; charset=utf-8 
+2017-11-22 18:23:05.4577||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://172.21.47.75/api/v1/persons/2   
+2017-11-22 18:23:05.4830||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|Successfully validated the token. 
+2017-11-22 18:23:05.5012||INFO|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was successfully authenticated. 
+2017-11-22 18:23:05.5566||INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization was successful for user: fDZ28UCY5bc8hYR60ejchrbvcDmWCm8D@clients. 
+2017-11-22 18:23:05.6182||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method STARC.Sample.Service.Controllers.PersonController.GetPersonById (STARC.Sample.Service) with arguments (2) - ModelState is Valid 
+2017-11-22 18:23:05.6322||INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.0.1-rtm-125 initialized 'PersonsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None 
+2017-11-22 18:23:06.0242||INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (284ms) [Parameters=[@__personId_0='?'], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[PersonId], [p].[DateOfBirth], [p].[FirstName], [p].[LastName]
+FROM [Persons] AS [p]
+WHERE [p].[PersonId] = @__personId_0 
+2017-11-22 18:23:06.0971||INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-11-22 18:23:06.1093||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action STARC.Sample.Service.Controllers.PersonController.GetPersonById (STARC.Sample.Service) in 552.8888ms 
+2017-11-22 18:23:06.1214||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 663.7115ms 200 application/json; charset=utf-8 

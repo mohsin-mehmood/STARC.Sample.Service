@@ -1,0 +1,11 @@
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\obj\Debug\netcoreapp2.0\STARC.Services.Security.Service.csprojResolveAssemblyReference.cache
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\obj\Debug\netcoreapp2.0\STARC.Services.Security.Service.csproj.CoreCompileInputs.cache
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\obj\Debug\netcoreapp2.0\STARC.Services.Security.Service.AssemblyInfoInputs.cache
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\obj\Debug\netcoreapp2.0\STARC.Services.Security.Service.AssemblyInfo.cs
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\obj\Debug\netcoreapp2.0\STARC.Services.Security.Service.dll
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\bin\Debug\netcoreapp2.0\STARC.Services.Security.Service.deps.json
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\bin\Debug\netcoreapp2.0\STARC.Services.Security.Service.runtimeconfig.json
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\bin\Debug\netcoreapp2.0\STARC.Services.Security.Service.runtimeconfig.dev.json
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\bin\Debug\netcoreapp2.0\STARC.Services.Security.Service.dll
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\bin\Debug\netcoreapp2.0\STARC.Services.Security.Service.pdb
+F:\Projects\STARC\POCs\STARC.Services.Security.Service\STARC.Services.Security.Service\obj\Debug\netcoreapp2.0\STARC.Services.Security.Service.pdb
