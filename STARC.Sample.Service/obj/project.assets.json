@@ -5244,6 +5244,19 @@
         "runtime": {
           "bin/placeholder/STARC.Sample.Models.dll": {}
         }
+      },
+      "STARC.Services.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "2.0.1"
+        },
+        "compile": {
+          "bin/placeholder/STARC.Services.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/STARC.Services.Common.dll": {}
+        }
       }
     }
   },
@@ -13705,6 +13718,11 @@
       "type": "project",
       "path": "../STARC.Sample.Models/STARC.Sample.Models.csproj",
       "msbuildProject": "../STARC.Sample.Models/STARC.Sample.Models.csproj"
+    },
+    "STARC.Services.Common/1.0.0": {
+      "type": "project",
+      "path": "../STARC.Services.Common/STARC.Services.Common.csproj",
+      "msbuildProject": "../STARC.Services.Common/STARC.Services.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13717,6 +13735,7 @@
       "NLog.Extensions.Logging >= 1.0.0-rtm-rc2",
       "NLog.Web.AspNetCore >= 4.5.0-beta04",
       "STARC.Sample.Models >= 1.0.0",
+      "STARC.Services.Common >= 1.0.0",
       "SwashBuckle.AspNetCore.MicrosoftExtensions >= 0.4.0",
       "Swashbuckle.AspNetCore.SwaggerUI >= 1.1.0"
     ]
@@ -13756,6 +13775,9 @@
           "projectReferences": {
             "F:\\Projects\\STARC\\POCs\\STARC.Sample.Service\\STARC.Sample.Models\\STARC.Sample.Models.csproj": {
               "projectPath": "F:\\Projects\\STARC\\POCs\\STARC.Sample.Service\\STARC.Sample.Models\\STARC.Sample.Models.csproj"
+            },
+            "F:\\Projects\\STARC\\POCs\\STARC.Sample.Service\\STARC.Services.Common\\STARC.Services.Common.csproj": {
+              "projectPath": "F:\\Projects\\STARC\\POCs\\STARC.Sample.Service\\STARC.Services.Common\\STARC.Services.Common.csproj"
             }
           }
         }

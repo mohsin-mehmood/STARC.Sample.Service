@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>STARC.Sample.Service</name>
+    </assembly>
+    <members>
+        <member name="M:STARC.Sample.Service.Controllers.PersonController.GetAllPersons">
+            <summary>
+            Get list of all persons 
+            </summary>
+            <returns>List of person</returns>
+        </member>
+        <member name="M:STARC.Sample.Service.Controllers.PersonController.GetPersonById(System.Int32)">
+            <summary>
+            Get a person by identifier
+            </summary>
+            <param name="id">Person Identifier</param>
+            <returns>Person Details</returns>
+        </member>
+        <member name="M:STARC.Sample.Service.Controllers.PersonController.Ping">
+            <summary>
+            Ensures service is up and running
+            </summary>        
+            <returns>OK status</returns>
+        </member>
+        <member name="M:STARC.Sample.Service.Controllers.PersonController.AddPerson(STARC.Sample.Service.EntityModels.Person)">
+            <summary>
+            Adds new person
+            </summary>
+            <param name="person"></param>
+            <returns>Newly added person</returns>
+        </member>
+    </members>
+</doc>

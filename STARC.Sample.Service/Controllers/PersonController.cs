@@ -26,7 +26,7 @@ namespace STARC.Sample.Service.Controllers
         /// <returns>List of person</returns>
         [HttpGet]
         [Route("")]
-        [Authorize]
+        [Authorize(Policy = "ReadStudentPolicy")]
         public async Task<IActionResult> GetAllPersons()
         {
             var result = await _personService.GetAllPersons();

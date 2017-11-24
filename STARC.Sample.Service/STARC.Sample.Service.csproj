@@ -34,6 +34,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\STARC.Sample.Models\STARC.Sample.Models.csproj" />
+    <ProjectReference Include="..\STARC.Services.Common\STARC.Services.Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>

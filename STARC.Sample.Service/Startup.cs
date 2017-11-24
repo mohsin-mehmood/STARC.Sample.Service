@@ -14,6 +14,9 @@ using STARC.Sample.Service.DBContexts;
 using STARC.Sample.Service.Repositories;
 using STARC.Sample.Service;
 using Microsoft.Extensions.Options;
+using STARC.Services.Common.AuthorizationRequirements;
+using Microsoft.AspNetCore.Authorization;
+using STARC.Services.Common.AuthorizationHandlers;
 
 namespace STARC.Sample.Service
 {
@@ -31,6 +34,7 @@ namespace STARC.Sample.Service
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var auth0Domain = $"{Uri.UriSchemeHttps}://{Configuration["Auth0:Domain"]}/";
             services.AddMvc();
 
             //OAuth Configuration
@@ -41,10 +45,15 @@ namespace STARC.Sample.Service
             }).AddJwtBearer(options =>
             {
                 //Auth0 configuration settings
-                options.Authority = $"{Uri.UriSchemeHttps}://{Configuration["Auth0:Domain"]}";
-                options.Audience = Configuration["Auth0:ApiIdentifier"];
+                options.Authority = auth0Domain;
+                options.Audience = Configuration["Auth0:ApiIdentifier"];                
             });
 
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("ReadStudentPolicy", policy =>  policy.Requirements.Add(new HasScopeRequirement("read:student", auth0Domain)));
+            });
+                
             services.Configure<ConfigSettings>(Configuration);
 
             //DBContext Registration
@@ -53,7 +62,8 @@ namespace STARC.Sample.Service
             //DI custom interface registration
             services.AddTransient<IPersonsService, PersonsService>();
             services.AddTransient<IPersonsRepository, PersonsRepository>();
-            
+            // register the scope authorization handler
+            services.AddSingleton<IAuthorizationHandler, HasScopeHandler>();
 
             if (enableSwagger)
             {
@@ -85,6 +95,7 @@ namespace STARC.Sample.Service
 
             app.UseAuthentication();
             app.UseMvc();
+            
 
             /***** Swagger Configuration ********/
             if (enableSwagger)

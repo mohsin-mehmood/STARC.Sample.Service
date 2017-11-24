@@ -5713,6 +5713,7 @@
           "NLog.Extensions.Logging": "1.0.0-rtm-rc2",
           "NLog.Web.AspNetCore": "4.5.0-beta04",
           "STARC.Sample.Models": "1.0.0",
+          "STARC.Services.Common": "1.0.0",
           "SwashBuckle.AspNetCore.MicrosoftExtensions": "0.4.0",
           "Swashbuckle.AspNetCore.SwaggerUI": "1.1.0"
         },
@@ -5721,6 +5722,19 @@
         },
         "runtime": {
           "bin/placeholder/STARC.Sample.Service.dll": {}
+        }
+      },
+      "STARC.Services.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "2.0.1"
+        },
+        "compile": {
+          "bin/placeholder/STARC.Services.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/STARC.Services.Common.dll": {}
         }
       }
     }
@@ -14782,6 +14796,11 @@
       "type": "project",
       "path": "../STARC.Sample.Service/STARC.Sample.Service.csproj",
       "msbuildProject": "../STARC.Sample.Service/STARC.Sample.Service.csproj"
+    },
+    "STARC.Services.Common/1.0.0": {
+      "type": "project",
+      "path": "../STARC.Services.Common/STARC.Services.Common.csproj",
+      "msbuildProject": "../STARC.Services.Common/STARC.Services.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
