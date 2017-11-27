@@ -1,9 +1,0 @@
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\bin\Debug\netstandard2.0\STARC.Services.Common.deps.json
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\bin\Debug\netstandard2.0\STARC.Services.Common.dll
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\obj\Debug\netstandard2.0\STARC.Services.Common.csprojResolveAssemblyReference.cache
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\obj\Debug\netstandard2.0\STARC.Services.Common.csproj.CoreCompileInputs.cache
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\obj\Debug\netstandard2.0\STARC.Services.Common.AssemblyInfoInputs.cache
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\obj\Debug\netstandard2.0\STARC.Services.Common.AssemblyInfo.cs
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\bin\Debug\netstandard2.0\STARC.Services.Common.pdb
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\obj\Debug\netstandard2.0\STARC.Services.Common.dll
-F:\Projects\STARC\POCs\STARC.Sample.Service\STARC.Services.Common\obj\Debug\netstandard2.0\STARC.Services.Common.pdb
